@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9c5204a-0875-4c6f-9e52-3dbe8a233c11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WqsrfENk6lPf1pSHG7FkT61ja3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/5. Solutions, Week 9" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints" />
+  </component>
+  <component name="RunManager" selected="Application.FXGraphicsTemplate (1)">
+    <configuration name="FXGraphicsTemplate (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment1_000805099.FXGraphicsTemplate" />
+      <module name="Assignment_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment1_000805099.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FXGraphicsTemplate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTemplates.FXGraphicsTemplate" />
+      <module name="Assignment_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeTemplates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HappyFace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1code.HappyFace" />
+      <module name="Assignment_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HappyFaceAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2code.HappyFaceAnimation" />
+      <module name="Assignment_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment1_000805099.Main" />
+      <module name="Assignment_1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FXGraphicsTemplate (1)" />
+      <item itemvalue="Application.FXGraphicsTemplate" />
+      <item itemvalue="Application.HappyFaceAnimation" />
+      <item itemvalue="Application.HappyFace" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FXGraphicsTemplate (1)" />
+        <item itemvalue="Application.HappyFaceAnimation" />
+        <item itemvalue="Application.HappyFace" />
+        <item itemvalue="Application.FXGraphicsTemplate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9c5204a-0875-4c6f-9e52-3dbe8a233c11" name="Default Changelist" comment="" />
+      <created>1579888659982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579888659982</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1585293759978">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585293759978" />
+    <state width="1237" height="100" key="GridCell.Tab.0.bottom" timestamp="1580081612767">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="100" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580081612767" />
+    <state width="1237" height="100" key="GridCell.Tab.0.center" timestamp="1580081612767">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="100" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580081612767" />
+    <state width="1237" height="100" key="GridCell.Tab.0.left" timestamp="1580081612767">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="100" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580081612767" />
+    <state width="1237" height="100" key="GridCell.Tab.0.right" timestamp="1580081612767">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="100" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580081612767" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1579890396674">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579890396674" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1583093482553">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583093482553" />
+  </component>
+</project>
